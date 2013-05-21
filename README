@@ -1,7 +1,7 @@
 Scribe client
 =============
 
-This is a Python client for scribe that can be installed using pip::
+This is a Python client for scribe that can be installed using pip:
 
     pip install facebook-scribe
 
@@ -9,7 +9,7 @@ This is a Python client for scribe that can be installed using pip::
 Usage
 -----
 
-Connect to ``HOST:9999`` using *Thrift*::
+Connect to `HOST:9999` using *Thrift*:
 
     from scribe import scribe
     from thrift.transport import TTransport, TSocket
@@ -33,5 +33,5 @@ Connect to ``HOST:9999`` using *Thrift*::
 Links
 -----
 
-* `Facebook Scribe on GitHub <https://github.com/facebook/scribe>`_
+* [Facebook Scribe on GitHub](https://github.com/facebook/scribe)
 
