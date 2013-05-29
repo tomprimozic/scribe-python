@@ -38,7 +38,10 @@ Links
 
 '''
 
-from distutils.core import setup
+try:
+	from setuptools import setup
+except ImportError:
+	from distutils.core import setup
 
 setup(name='facebook-scribe',
       version='2.0',
