@@ -42,7 +42,7 @@ from distutils.core import setup
 
 setup(name='facebook-scribe',
       version='2.0',
-      url='http://github.com/zemanta/scribe-python/',
+      url='http://github.com/tomprimozic/scribe-python/',
       author='Tom Primozic',
       author_email='tom.primozic@zemanta.com',
       description='A Python client for Facebook Scribe',
