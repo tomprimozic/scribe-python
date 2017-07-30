@@ -44,7 +44,7 @@ except ImportError:
 	from distutils.core import setup
 
 setup(name='facebook-scribe',
-      version='2.0',
+      version='2.0.post1',
       url='http://github.com/tomprimozic/scribe-python/',
       author='Tom Primozic',
       author_email='tom.primozic@zemanta.com',
